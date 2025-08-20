@@ -69,4 +69,4 @@ Genera un archivo `pentagramas.pdf` con **10 páginas** de pentagramas.
 
 - El archivo PDF se genera siempre en la carpeta donde se ejecuta el programa.  
 - Por defecto cada página contiene **6 sistemas centrados en A4**.  
-- El diseño es **fijo y limpio**: gran pentagrama (clave de sol y fa), sin símbolos adicionales.  
+- El diseño es **fijo y limpio**
